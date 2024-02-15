@@ -1,1 +1,1 @@
-This is a basic demo for setting up a sipmple react store
+This is a basic demo for setting up a simple react store
